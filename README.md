@@ -1,4 +1,4 @@
-#Paint
+#Canvas learning
 
 #Installation
 ```npm install```
